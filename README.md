@@ -4,7 +4,7 @@ I'm Sharif Zadran I am a Technology enthisuast, I do contents on design and deve
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHARIFZADRAN)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
