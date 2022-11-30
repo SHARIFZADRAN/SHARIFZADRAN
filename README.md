@@ -1,4 +1,5 @@
 ### Hi there 
 **SHARIFZADRAN/SHARIFZADRAN** 
-I AM SHARIF FROM UNITED STATES I DO CONTENTS ON DESIGN AND DEVELPOPMENT, 
+I'm Sharif Zadran I am a Technology enthisuast, I do contents on design and development,
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHARIFZADRAN)](https://github.com/anuraghazra/github-readme-stats)
