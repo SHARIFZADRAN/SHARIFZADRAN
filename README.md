@@ -15,6 +15,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> sharif.z.zadran@gmail.com
+  https://www.linkedin.com/in/sharif-k-zadran/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
