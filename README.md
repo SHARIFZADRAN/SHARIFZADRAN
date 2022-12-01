@@ -3,7 +3,7 @@
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  Java / JS / HTML / CSS / Git Bash / 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java  
