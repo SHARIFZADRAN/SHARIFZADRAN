@@ -8,7 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java  
 - 
-(https://github-readme-stats.vercel.app/api?username=SHARIFZADRAN)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=SHARIFZADRAN)
 
 
 <h3 align="center">A passionate frontend developer </h3>
