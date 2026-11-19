@@ -6,7 +6,7 @@
 Skills:  Java / JS / HTML / CSS / Git Bash / 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java  
+- 🌱 Java, C/C++ Python  
 - 
 (https://github-readme-stats.vercel.app/api?username=SHARIFZADRAN)
 
